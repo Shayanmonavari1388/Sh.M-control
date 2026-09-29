@@ -1,0 +1,10 @@
+# Sh.M Control - Requirements (Python 3.12+)
+
+PySide6>=6.6.0
+psutil>=5.9.8
+nvidia-ml-py>=12.535.0
+httpx>=0.27.0
+python-telegram-bot>=21.0
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+PyInstaller>=6.3.0
