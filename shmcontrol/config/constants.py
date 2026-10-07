@@ -1,0 +1,6 @@
+"""Public product constants (safe to ship)."""
+TELEGRAM_BOT_USERNAME = "ShMmControlbot"
+TELEGRAM_BOT_URL = "https://t.me/ShMmControlbot"
+PORTAL_URL = "https://login.shayanmonavari.ir"
+PRODUCT_NAME = "Sh.M Control"
+PRODUCT_VERSION = "1.1.0"
